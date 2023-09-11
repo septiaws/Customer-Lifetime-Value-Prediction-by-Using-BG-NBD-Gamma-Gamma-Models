@@ -11,4 +11,4 @@ Dataset diambil dari [The UCI Machine Learning Repository] (https://archive.ics.
 Dalam analisa kali ini, penulis menggunakan 2 model dalam memprediksi CLV, yaitu BG-NBD Model dan Gamma-Gamma Model. BG-NBD Model akan memodelkan distribusi pembelian dari setiap pelanggan dan memprediksi jumlah transaksi yang diharapkan dari setiap pelanggan. Gamma-Gamma model akan memodelkan rata-rata dan distribusi profit yang diharapkan dari setiap pelanggan.
 
 ## Experiments/Results/Discussion
-[Medium](https://medium.com/@septiawulandaris11/customer-lifetime-value-prediction-by-using-bg-nbd-gamma-gamma-models-bde6cb4a10bd)https://medium.com/@septiawulandaris11/customer-lifetime-value-prediction-by-using-bg-nbd-gamma-gamma-models-bde6cb4a10bd)
+[Medium](https://medium.com/@septiawulandaris11/customer-lifetime-value-prediction-by-using-bg-nbd-gamma-gamma-models-bde6cb4a10bd)
