@@ -1,4 +1,4 @@
-# Customer Lifetime Value Prediction by Using BG NBD & Gamma Gamma Models
+# Customer Lifetime Value Prediction by Using BG-NBD & Gamma-Gamma Models
 
 ## Introduction
 Pelanggan merupakan elemen terpenting dalam perusahaan. Oleh karena itu, sebagian besar perusahaan berusaha menjaga hubungan dengan pelanggan. Dengan cara inilah mereka mendapatkan manfaat maksimal dari pelanggannya atau dikenal juga dengan Customer Lifetime Value (CLV).
